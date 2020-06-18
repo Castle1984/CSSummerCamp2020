@@ -112,7 +112,7 @@
 
 【即日起至6月24日】[关于举办 2020年南开大学“活力软件”优秀大学生夏令营的通知](http://cs.nankai.edu.cn/info/1042/2717.htm)
 
-
+# 东南大学
 
 # 华东师范大学
 【即日起至6月19日】[华东师范大学计算机科学与技术学院优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2020052620140156171650)
